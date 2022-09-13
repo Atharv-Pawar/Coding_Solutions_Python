@@ -8,4 +8,5 @@ def vowel_count(str):
 
 
 if __name__ == "__main__":
-    print(vowel_count("avacoddoo"))
+    z = input()
+    print(vowel_count(z))

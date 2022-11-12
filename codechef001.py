@@ -11,7 +11,7 @@ The first line of input will contain a single integer T, denoting the number of 
 Each test case consists of a single integer X - denoting the rank of Chef.
 Output Format
 For each test case, output the page number of the rank-list containing Chef's name.
-"""
+""" 
 
 T = int(input())
 for i in range(T):

@@ -8,4 +8,4 @@ for _ in range(int(input())):
     c_mstick = 0
     for i in str(result):
         c_mstick += d[int(i)]
-    print(c_mstick)
+    print(c_mstick) 
